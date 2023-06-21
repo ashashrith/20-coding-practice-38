@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  height: 100vh;
+  width: 100%;
+}
+
+.heading {
+  font-size: 14px;
+  font-weight: 700;
+  color: #1e293b;
+}
+
+.ccbp {
+  font-size: 17px;
+  color: #2b237c;
+  font-weight: 600;
+}
+
+.chrono-container {
+  width: 400px;
+  height: 600px;
+}
